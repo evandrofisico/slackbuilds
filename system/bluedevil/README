@@ -1,0 +1,4 @@
+BlueDevil is the new bluetooth stack for KDE, it’s composed of: KCM, KDED,
+KIO, Library and some other small applications.
+
+This requires libbluedevil.
