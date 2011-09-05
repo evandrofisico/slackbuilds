@@ -1,10 +1,12 @@
 PRGNAM="llvm"
-VERSION="2.7"
+VERSION="2.8"
 HOMEPAGE="http://llvm.org/"
-DOWNLOAD="http://llvm.org/releases/2.7/llvm-2.7.tgz"
-MD5SUM="ac322661f20e7d6c810b1869f886ad9b"
+DOWNLOAD="http://llvm.org/releases/2.8/llvm-2.8.tgz \
+    http://llvm.org/releases/2.8/clang-2.8.tgz"
+MD5SUM="220d361b4d17051ff4bb21c64abe05ba \
+    10e14c901fc3728eecbd5b829e011b59"
 DOWNLOAD_x86_64=""
 MD5SUM_x86_64=""
 MAINTAINER="Heinz Wiesinger"
 EMAIL="pprkut@liwjatan.at"
-APPROVED="rworkman"
+APPROVED=""
